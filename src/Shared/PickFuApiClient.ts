@@ -1,6 +1,6 @@
 import { Answer } from "./Entities/Answer";
 
-const baseUrl = import.meta.env.PICKFU_API_URL
+const baseUrl = import.meta.env.PICKFU_API_URL + '/api'
 const defaultHeaders = new Headers();
 defaultHeaders.append("Content-Type", "application/json");
 
