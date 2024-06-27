@@ -1,0 +1,1 @@
+export const Logo = () => <img className='w-1/4 m-auto py-10' src="https://media-cdn.pickfu.com/image/upload/v1/web-static/assets/logos/pickfu-logo-svg.svg" />
