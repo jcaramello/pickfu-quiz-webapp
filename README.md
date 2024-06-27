@@ -1,6 +1,8 @@
 # PickFu Quiz WebApp
 
-PickFu Coding Challenge
+PickFu Coding Challenge 
+
+[Deployed here](http://100.29.178.172:3000/)
 
 ## Description
 
