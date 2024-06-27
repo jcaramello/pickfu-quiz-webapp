@@ -10,6 +10,10 @@ socket.on("connect", () => {
     console.log("Socket connected");
 });
 
+socket.on("connect_error", (err) => {
+    console.log(err);
+});
+
 socket.on("disconnect", () => { // fire when socked is disconnected
     console.log("Socket disconnected");
 })
