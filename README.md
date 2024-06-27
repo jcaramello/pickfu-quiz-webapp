@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="" target="blank"><img src="https://media-cdn.pickfu.com/image/upload/v1/web-static/assets/logos/pickfu-logo-svg.svg" width="200" alt="Nest Logo" /></a>
+</p>
+
 # PickFu Quiz WebApp
 
 PickFu Coding Challenge 
